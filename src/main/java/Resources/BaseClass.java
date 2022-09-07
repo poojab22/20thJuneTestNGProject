@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BaseClass {
-
+//changes in baseclass
 	public void browserLaunch() throws IOException
 	{
 		FileInputStream fis=new FileInputStream("C:\\Users\\Administrator\\eclipse-workspace\\20thJuneTestFramework\\src\\main\\java\\Resources\\data.properties");
